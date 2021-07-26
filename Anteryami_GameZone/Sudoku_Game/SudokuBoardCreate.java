@@ -3,6 +3,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
+// SudokuBoardCreate class extends by  Sudoku class. Basically this class is Use for Creation of Sudoku Board Based on Difficulty level.
 
 public class SudokuBoardCreate {
 
@@ -24,7 +25,7 @@ public class SudokuBoardCreate {
 	public void Sudoku_Borad_Creater() {
 		Random random=new Random();
 
-		fill(ans,0);
+		// fill(ans,0);
 
 		ans[0][0]=random.nextInt(9)+1;
 

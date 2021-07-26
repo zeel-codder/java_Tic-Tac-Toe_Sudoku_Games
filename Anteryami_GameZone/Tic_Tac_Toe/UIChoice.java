@@ -3,7 +3,7 @@ package Anteryami_GameZone.Tic_Tac_Toe;
 import java.util.Random;
 
 
-/**UIChoice is function used for making UiChoice as per difficulty level.*/
+/**UIChoice Class Extends the TicTacToe Class. The Class Is Used for Making UIChoice in the Game based on the difficulty level.*/
 public class UIChoice extends TicTacToe{
 	
 

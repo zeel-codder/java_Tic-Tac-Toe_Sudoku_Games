@@ -1,5 +1,8 @@
 package Anteryami_GameZone.Sudoku_Game;
 
+
+// Sudoku class is main class for Sudoku Game. Which Use for Sudoku Board create with help of SudokuBoardCreate class, Make User Move on Board and Check if User Win or not.
+
 public class Sudoku extends SudokuBoardCreate{
 	
 	public Sudoku(int level){

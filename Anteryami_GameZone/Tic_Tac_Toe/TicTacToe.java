@@ -1,5 +1,5 @@
 package Anteryami_GameZone.Tic_Tac_Toe;
-/**TikTacToe is one of the main class which extends by UIChoice*/
+/**TicTacToe Class Use for Crating TicTacToe Game Board, and has Some UseFull Variable Like HumanChoice,UiChoice and Winner of Game.*/
 public class TicTacToe{
     protected String humanchoice,uichoice,Game_winner;
     protected int n=3;

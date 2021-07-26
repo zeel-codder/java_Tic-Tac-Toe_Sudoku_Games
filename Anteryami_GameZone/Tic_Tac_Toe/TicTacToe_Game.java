@@ -1,6 +1,6 @@
 
 package Anteryami_GameZone.Tic_Tac_Toe;
-/**TikTacToe_Game is main class which extends UIChoice class*/
+/**TicTacToe_Game Class Extends the TicTacToe Class. Class Is Used for making User as well as Ui Choice in Board and also diced the winner.*/
 
 public class TicTacToe_Game extends UIChoice{
 	
